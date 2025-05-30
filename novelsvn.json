@@ -1,0 +1,26 @@
+[
+  {
+    "id": "novel1",
+    "title": "Замок в тумане",
+    "description": "Мрачная история о замке и вампирах.",
+    "episodes": 5,
+    "coverUrl": "https://kiwi-creator2001.github.io/VisualNovelsBooks/covers/novel1.png",
+    "stats": {
+      "charisma": 3,
+      "wisdom": 2
+    },
+    "rewards": 12
+  },
+  {
+    "id": "novel2",
+    "title": "Песнь фей",
+    "description": "Три девушки из нашего мира попадают в волшебный.",
+    "episodes": 7,
+    "coverUrl": "https://kiwi-creator2001.github.io/VisualNovelsBooks/covers/novel2.png",
+    "stats": {
+      "charisma": 5,
+      "wisdom": 4
+    },
+    "rewards": 19
+  }
+]
